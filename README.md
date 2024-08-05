@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirill Zinkovsky
-- 🌱 I’m currently learning data science in Y-Data
+- 🌱 I’m a graduate of School of Data Science YDATA
 - 📫 kzinkovsky@gmail.com
 <!---
 kzinkovsky/kzinkovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
