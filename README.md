@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Kirill Zinkovsky  
-🎓 Graduate of School of Data Science YDATA  
+  
 📊 Data Scientist with expertise in statistical modeling and machine learning  
+🎓 Graduate of School of Data Science YDATA
 🔗 https://www.linkedin.com/in/kirill-zinkovsky-24682845/  
 📫 kzinkovsky@gmail.com
 
