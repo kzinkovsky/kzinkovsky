@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kirill Zinkovsky  
   
-📊 Data Scientist and Economist
+📊 Data Scientist and Economist  
 🎓 Graduate of Higher School of Economics   
 🎓 Graduate of School of Data Science YDATA    
 🔗 https://www.linkedin.com/in/kirill-zinkovsky-24682845/  
